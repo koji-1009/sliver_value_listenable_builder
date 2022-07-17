@@ -34,6 +34,8 @@ dependencies:
   sliver_value_listenable_builder:
     path: ../
 
+  sliver_tools: ^0.2.0
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
